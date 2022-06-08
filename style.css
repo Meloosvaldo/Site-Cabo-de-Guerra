@@ -1,0 +1,51 @@
+* {
+ box-sizing: border-box;
+} 
+body{
+  background-color: #e4f2e4;
+  background-image: url("fundo.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+  background-position-y: 4px;
+}
+#imagem1{
+  margin-left: 43%;
+  margin-right: 43%;
+}
+.margemtexto{
+  margin: 10px;
+}
+#partelaranja{
+  height: 6px;  
+  background-color: rgb(243, 160, 7);
+}
+.informacoes{
+  width: 520px;
+  background-color: #8c5664;
+  margin: auto; 
+}
+.parteverde{
+  height: 6px;
+  background-color: green;   
+}
+h1, h2{
+  font-family: Candara;
+  color: #e4f2e4;
+}
+p,a{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:#e4f2e4;  
+  text-align: justify;
+  text-decoration: none;
+}
+.mudaletra {
+  font-style: italic;
+}
+#imagemdocorpo{
+  border-style: solid;
+  border-width: px;
+  border-color: #e4f2e4;
+  display: block;
+  margin: auto;
+}
